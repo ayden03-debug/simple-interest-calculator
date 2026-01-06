@@ -10,3 +10,4 @@ Formula used:
 Simple Interest = (Principal × Rate × Time) / 100
 
 Typo Fixed.
+Minor documentation update.
