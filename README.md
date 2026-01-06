@@ -8,3 +8,5 @@ The script calculates simple interest based on:
 
 Formula used:
 Simple Interest = (Principal × Rate × Time) / 100
+
+Typo Fixed.
